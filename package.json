@@ -1,0 +1,25 @@
+{
+  "name": "imagecomparer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaNarayan05/ImageComparer.git"
+  },
+  "author": "Aditya Narayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaNarayan05/ImageComparer/issues"
+  },
+  "homepage": "https://github.com/AdityaNarayan05/ImageComparer#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "tailwindcss": "^3.3.2"
+  }
+}
