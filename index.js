@@ -6,7 +6,7 @@ const path = require('path');
 const fs = require('fs');
 const deepai = require('deepai');
 const _ = require('lodash');
-deepai.setApiKey(process.env.API_KEY);
+deepai.setApiKey('06422184-0412-42da-ae73-b81db3ee0565');
 
 
 const app = express();
